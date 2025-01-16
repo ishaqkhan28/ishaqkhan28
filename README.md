@@ -1,12 +1,12 @@
 # 🌟 Welcome to My GitHub Profile! 💻  
 
-Hi there! I'm a **Full-Stack Web Developer** with a passion for creating innovative, user-centric web applications. I combine creativity and technical expertise to bring ideas to life. Dive in to explore my world of code and design! 🚀  
+Hi there! I'm a **Web Developer** with a passion for creating innovative, user-centric web applications. I combine creativity and technical expertise to bring ideas to life. Dive in to explore my world of code and design! 🚀  
 
 ---
 
 ## 🖋️ About Me  
-✨ **Name**: Afifa Khan <br/>
-✨ **Role**: Full-Stack Web Developer  
+✨ **Name**: Ishaq Khan <br/>
+✨ **Role**: Web Developer
 ✨ **Current Focus**: Exploring **Artificial Intelligence**  
 
 ---
@@ -44,8 +44,8 @@ I specialize in delivering high-quality solutions tailored to your business need
 
 ## 🌐 Connect with Me  
 
-- 🚀 [Portfolio](https://portfolio-website23.vercel.app/)
-- 💬 [LinkedIn](https://www.linkedin.com/in/afifa~khan)  
+- 🚀 [Portfolio]((https://ishaq-khan.netlify.app/))
+- 💬 [LinkedIn]((https://www.linkedin.com/in/ishaq-k/))  
 
 ---
 
